@@ -1,0 +1,23 @@
+{
+  "name": "Chat-Application",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hardikjain29/Chat-Application.git"
+  },
+  "author": "Hardik Jain",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/hardikjain29/Chat-Application/issues"
+  },
+  "dependencies": {
+    "express": "~4.14.0",
+    "crypto-js": "~3.1.6",
+    "socket.io": "~1.4.8"
+  }
+}
